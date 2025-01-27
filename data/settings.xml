@@ -62,6 +62,19 @@
             </pos>
         </display>
     </furion>
+    <keira>
+        <display>
+            <pos>
+                <x>148</x>
+                <y>491</y>
+            </pos>
+            <text>
+                <fonts>
+
+                </fonts>
+            </text>
+        </display>
+    </keira>
     <kriz>
         <display>
             <pos>
@@ -78,6 +91,14 @@
             </pos>
         </display>
     </kuroodo>
+    <lietta>
+        <display>
+            <pos>
+                <x>277</x>
+                <y>236</y>
+            </pos>
+        </display>
+    </lietta>
     <sakaru>
         <display>
             <pos>
